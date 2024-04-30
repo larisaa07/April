@@ -1,0 +1,59 @@
+.bg-hero-image{
+    background-color: rgba(155, 155, 155, 0.589);
+    height: 100px;
+    border-color: black;
+    border-style:solid;
+    border-width:2px;
+
+}
+
+.navbar{
+    height:120px;
+}
+
+#more{
+    background-color:  rgba(155, 155, 155, 0.589);
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    margin-top:20px;
+    padding:10px;
+}
+
+img{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    width:300px;
+    margin-top:20px;
+}
+
+body{
+    background-color: rgba(44, 60, 105, 0.37);
+    font-family: 'Playfair Display', serif;
+}
+
+button{
+    margin-top:20px;
+    margin-bottom:20px;
+    border-width:2px;
+    border-color:black;
+    border-style:solid;
+
+}
+
+#text{
+    margin-top:20px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    padding: 10px;
+    background-color: rgba(211, 227, 236, 0.808);
+}
+
+.col-md-2{
+    margin-top:30px;
+    margin-bottom:50px;
+    margin-right:auto;
+    margin-right:auto;
+}
